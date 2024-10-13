@@ -34,7 +34,7 @@
 
 
 
-This module is using the SOAP interface from BrokerBin APIs. For the REST interface, please refer to [https://github.com/Bloggify/brokerbin-soap].
+This module is using the SOAP interface from BrokerBin APIs. For the REST interface, please refer to [Bloggify/BrokerBin](https://github.com/Bloggify/brokerbin-soap).
 
 
 
