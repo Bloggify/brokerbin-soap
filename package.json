@@ -10,7 +10,7 @@
     "js"
   ],
   "license": "MIT",
-  "version": "1.1.4",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -45,6 +45,6 @@
     "soap": "^0.43.0"
   },
   "blah": {
-      "description": "This module is using the SOAP interface from BrokerBin APIs. For the REST interface, please refer to [https://github.com/Bloggify/brokerbin-soap]."
+    "description": "This module is using the SOAP interface from BrokerBin APIs. For the REST interface, please refer to [https://github.com/Bloggify/brokerbin-soap]."
   }
 }
