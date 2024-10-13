@@ -17,9 +17,9 @@
 
 
 
-# brokerbin
+# brokerbin-soap
 
- [![Version](https://img.shields.io/npm/v/brokerbin.svg)](https://www.npmjs.com/package/brokerbin) [![Downloads](https://img.shields.io/npm/dt/brokerbin.svg)](https://www.npmjs.com/package/brokerbin)
+ [![Version](https://img.shields.io/npm/v/brokerbin-soap.svg)](https://www.npmjs.com/package/brokerbin-soap) [![Downloads](https://img.shields.io/npm/dt/brokerbin-soap.svg)](https://www.npmjs.com/package/brokerbin-soap)
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-This module is using the SOAP interface from BrokerBin APIs. For the REST interface, please refer to [https://github.com/Bloggify/brokerbin].
+This module is using the SOAP interface from BrokerBin APIs. For the REST interface, please refer to [https://github.com/Bloggify/brokerbin-soap].
 
 
 
@@ -51,10 +51,10 @@ This module is using the SOAP interface from BrokerBin APIs. For the REST interf
 
 ```sh
 # Using npm
-npm install --save brokerbin
+npm install --save brokerbin-soap
 
 # Using yarn
-yarn add brokerbin
+yarn add brokerbin-soap
 ```
 
 
@@ -74,7 +74,7 @@ yarn add brokerbin
 
 
 ```js
-const BrokerBin = require("brokerbin");
+const BrokerBin = require("brokerbin-soap");
 
 (async () => {
 

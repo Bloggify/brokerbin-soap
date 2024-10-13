@@ -1,5 +1,5 @@
 {
-  "name": "brokerbin",
+  "name": "brokerbin-soap",
   "description": "BrokerBin API wrapper for Node.js",
   "keywords": [
     "brokerbin",
@@ -16,7 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
-  "homepage": "https://github.com/Bloggify/brokerbin#readme",
+  "homepage": "https://github.com/Bloggify/brokerbin-soap#readme",
   "files": [
     "bin/",
     "app/",
@@ -34,10 +34,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Bloggify/brokerbin.git"
+    "url": "git+ssh://git@github.com/Bloggify/brokerbin-soap.git"
   },
   "bugs": {
-    "url": "https://github.com/Bloggify/brokerbin/issues"
+    "url": "https://github.com/Bloggify/brokerbin-soap/issues"
   },
   "dependencies": {
     "mcrypt": "^0.1.17",
@@ -45,6 +45,6 @@
     "soap": "^0.43.0"
   },
   "blah": {
-      "description": "This module is using the SOAP interface from BrokerBin APIs. For the REST interface, please refer to [https://github.com/Bloggify/brokerbin]."
+      "description": "This module is using the SOAP interface from BrokerBin APIs. For the REST interface, please refer to [https://github.com/Bloggify/brokerbin-soap]."
   }
 }
