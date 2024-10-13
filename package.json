@@ -43,5 +43,8 @@
     "mcrypt": "^0.1.17",
     "phpunserialize": "^1.0.1",
     "soap": "^0.43.0"
+  },
+  "blah": {
+      "description": "This module is using the SOAP interface from BrokerBin APIs. For the REST interface, please refer to [https://github.com/Bloggify/brokerbin]."
   }
 }

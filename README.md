@@ -34,6 +34,8 @@
 
 
 
+This module is using the SOAP interface from BrokerBin APIs. For the REST interface, please refer to [https://github.com/Bloggify/brokerbin].
+
 
 
 
@@ -114,6 +116,7 @@ const BrokerBin = require("brokerbin");
 
 
 
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -122,6 +125,8 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
+
 
 
 
